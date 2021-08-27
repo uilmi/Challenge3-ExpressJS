@@ -1,22 +1,22 @@
 [
     {
         "id": 1,
-        "email": "a@a.com",
+        "username": "binar",
         "password": "1234"
     },
     {
         "id": 2,
-        "email": "b@b.com",
+        "username": "joe",
         "password": "1234"
     },
     {
         "id": 3,
-        "email": "c@c.com",
+        "username": "ryan",
         "password": "1234"
     },
     {
         "id": 4,
-        "email": "d@d.com",
+        "username": "smith",
         "password": "1234"
     }
 ]
