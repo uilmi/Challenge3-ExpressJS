@@ -2,21 +2,21 @@
     {
         "id": 1,
         "username": "binar",
-        "password": "1234"
+        "password": "binar1234"
     },
     {
         "id": 2,
         "username": "joe",
-        "password": "1234"
+        "password": "joe1234"
     },
     {
         "id": 3,
         "username": "ryan",
-        "password": "1234"
+        "password": "ryan1234"
     },
     {
         "id": 4,
         "username": "smith",
-        "password": "1234"
+        "password": "smith1234"
     }
 ]
